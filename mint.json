@@ -18,6 +18,10 @@
     "light": "#eee",
     "dark": "#C34100"
   },
+  "versions": [
+    {"name": "⚪ shuttle.rs", "url": "https://docs.shuttle.rs/"},
+    {"name": "🚀 shuttle.dev (NEW)", "url": "https://docs.shuttle.dev/"}
+  ],
   "topbarCtaButton": {
     "name": "Log In",
     "url": "https://console.shuttle.rs/"
